@@ -39,11 +39,11 @@
 
 ### 팀프로젝트
 
-[HappyHouse(작성중)](https://www.notion.so/HappyHouse-76f4cd4950d84111b5501ca04c018477)
+[HappyHouse](https://github.com/seaw7777/Happyhouse)
 
-[Dazu](https://www.notion.so/Dazu-104135a9e9934e248fa2df22ae5ec085)
+[Dazu](https://github.com/seaw7777/Dazu)
 
-[Fooding](https://www.notion.so/Fooding-8be42d0f8256403cab50c1730a0df5a4)
+[Fooding](https://github.com/seaw7777/Fooding)
 
 ### 맡은 역할
 
